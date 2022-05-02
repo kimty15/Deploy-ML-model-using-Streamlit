@@ -1,0 +1,5 @@
+streamlit==1.5.1
+yfinance==0.1.70  
+matplotlib==3.5.1
+shap==0.40.0
+scikit-learn==1.0.2

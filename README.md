@@ -4,5 +4,5 @@
 - cd Deploy-ML-model-using-Streamlit
 - pip install -r requirements.txt
 - Run : streamlit run app4.py 
-# Demo app run
-![My Image](demo.jpg)
+# Interface App
+![My Image](demo.png)
